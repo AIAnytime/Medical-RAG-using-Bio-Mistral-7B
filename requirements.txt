@@ -1,0 +1,6 @@
+langchain
+ctransformers
+sentence_transformers
+chromadb
+qdrant-client
+fastapi
