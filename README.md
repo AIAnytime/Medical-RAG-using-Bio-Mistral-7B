@@ -20,7 +20,7 @@ Install [Microsoft Visual C++](https://code.visualstudio.com/docs/cpp/config-msv
    python -m venv biomistral_rag   
    biomistral_rag\Scripts\activate   
    python -m pip install pip --upgrade  
-   cd Medical-RAG-using-Bio-Mistral-7B-main
+   cd <folder_name>
    pip install -r requirements.txt   
    pip install qdrant-client --upgrade   
    ```
